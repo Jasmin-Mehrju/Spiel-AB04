@@ -127,8 +127,6 @@ class Game():
                         attacker2.speedy *= -1
 
 
-
-
 def main():
         game = Game()
         game.run()
